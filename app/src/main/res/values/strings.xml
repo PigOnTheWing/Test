@@ -1,0 +1,11 @@
+<resources>
+    <string name="we_transfer_api">05vUkQuzVb51NTpHuFov86TLGfAvUvtJao3xL7xz</string>
+    <string name="app_name">Test</string>
+    <string name="tab_text_1">Upload</string>
+    <string name="tab_text_2">Download</string>
+    <string name="upload_description">Select files to upload (under 6mb ONLY)</string>
+    <string name="download_description">Paste link to download</string>
+    <string name="action_settings">Settings</string>
+    <string name="browse">Browse</string>
+    <string name="upload">Upload</string>
+</resources>
